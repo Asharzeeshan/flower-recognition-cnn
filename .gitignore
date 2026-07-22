@@ -1,0 +1,7 @@
+# Dataset (download separately — see README)
+data/
+
+# MATLAB
+*.asv
+*.mat
+slprj/
